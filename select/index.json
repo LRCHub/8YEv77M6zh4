@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "Lauren",
+  "base_artist": "indigo la End",
+  "createdAt": "2025-12-01T11:32:16.360093Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dancin' In The Moonlight (feat. Lauren Alaina)",
+      "artist": "Chris Lane",
+      "has_synced": true,
+      "path": "select/01_Dancin'_In_The_Moonlight_(feat._Lauren_Alaina)_Chris_Lane.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "What Ifs (feat. Lauren Alaina)",
+      "artist": "Kane Brown feat. Lauren Alaina",
+      "has_synced": true,
+      "path": "select/02_What_Ifs_(feat._Lauren_Alaina)_Kane_Brown_feat._Lauren_Alaina.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One Beer (feat. Lauren Alaina & Devin Dawson)",
+      "artist": "HARDY feat. Lauren Alaina & Devin Dawson",
+      "has_synced": true,
+      "path": "select/03_One_Beer_(feat._Lauren_Alaina_&_Devin_Dawson)_HARDY_feat._Lauren_Alaina_&_Devin_Dawson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
+      "artist": "Hardy",
+      "has_synced": true,
+      "path": "select/04_ONE_BEER_(feat._Lauren_Alaina_&_Devin_Dawson)_Hardy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Thinking 'Bout You (feat. Lauren Alaina)",
+      "artist": "Dustin Lynch feat. Lauren Alaina",
+      "has_synced": true,
+      "path": "select/05_Thinking_'Bout_You_(feat._Lauren_Alaina)_Dustin_Lynch_feat._Lauren_Alaina.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Thinking 'Bout You (feat. Lauren Alaina)",
+      "artist": "Dustin Lynch",
+      "has_synced": true,
+      "path": "select/06_Thinking_'Bout_You_(feat._Lauren_Alaina)_Dustin_Lynch.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You Could Break My Heart (feat. Lauren Weintraub)",
+      "artist": "Huey Mack feat. Lauren Weintraub",
+      "has_synced": true,
+      "path": "select/07_You_Could_Break_My_Heart_(feat._Lauren_Weintraub)_Huey_Mack_feat._Lauren_Weintraub.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "In Your Phone (with Lauren Jauregui)",
+      "artist": "Ty Dolla $ign",
+      "has_synced": true,
+      "path": "select/08_In_Your_Phone_(with_Lauren_Jauregui)_Ty_Dolla_$ign.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Show You How to Hustle (feat. Lauren)",
+      "artist": "Pharrell Williams, Lauren",
+      "has_synced": false,
+      "path": "select/09_Show_You_How_to_Hustle_(feat._Lauren)_Pharrell_Williams,_Lauren.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lauren Marie",
+      "artist": "Girls",
+      "has_synced": false,
+      "path": "select/10_Lauren_Marie_Girls.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Show You How To Hustle (feat. Lauren)",
+      "artist": "Pharrell",
+      "has_synced": true,
+      "path": "select/11_Show_You_How_To_Hustle_(feat._Lauren)_Pharrell.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Show You How To Hustle feat. Lauren",
+      "artist": "Pharrell",
+      "has_synced": true,
+      "path": "select/12_Show_You_How_To_Hustle_feat._Lauren_Pharrell.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Skateboard P Presents: Show You How To Hustle (Feat. Lauren)",
+      "artist": "Pharrell",
+      "has_synced": true,
+      "path": "select/13_Skateboard_P_Presents__Show_You_How_To_Hustle_(Feat._Lauren)_Pharrell.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lauren",
+      "artist": "Men I Trust",
+      "has_synced": false,
+      "path": "select/14_Lauren_Men_I_Trust.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lauren (Live Duo)",
+      "artist": "Men I Trust",
+      "has_synced": false,
+      "path": "select/15_Lauren_(Live_Duo)_Men_I_Trust.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Love Gun (feat. Lauren Bennett)",
+      "artist": "Cee Lo Green",
+      "has_synced": true,
+      "path": "select/16_Love_Gun_(feat._Lauren_Bennett)_Cee_Lo_Green.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Lie About You (feat. Lauren Sanderson)",
+      "artist": "OSTON feat. Lauren Sanderson",
+      "has_synced": false,
+      "path": "select/17_Lie_About_You_(feat._Lauren_Sanderson)_OSTON_feat._Lauren_Sanderson.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "You're the One That I Want (feat. Lauren Dunn)",
+      "artist": "Loving Caliber feat. Lauren Dunn",
+      "has_synced": true,
+      "path": "select/18_You're_the_One_That_I_Want_(feat._Lauren_Dunn)_Loving_Caliber_feat._Lauren_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Preclusion of the Mastectomy (feat. Lauren Babic)",
+      "artist": "Vermicide Violence feat. Lauren Babic",
+      "has_synced": true,
+      "path": "select/19_Preclusion_of_the_Mastectomy_(feat._Lauren_Babic)_Vermicide_Violence_feat._Lauren_Babic.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Laurentech",
+      "artist": "SPECIAL OTHERS",
+      "has_synced": false,
+      "path": "select/pl_01_Laurentech_SPECIAL_OTHERS.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Lauren",
+      "artist": "SPECIAL OTHERS",
+      "has_synced": false,
+      "path": "select/pl_02_Lauren_SPECIAL_OTHERS.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Lauren",
+      "artist": "SPECIAL OTHERS",
+      "has_synced": false,
+      "path": "select/pl_03_Lauren_SPECIAL_OTHERS.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Lauren",
+      "artist": "SPECIAL OTHERS",
+      "has_synced": false,
+      "path": "select/pl_04_Lauren_SPECIAL_OTHERS.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Lauren Marie",
+      "artist": "SPECIAL OTHERS",
+      "has_synced": false,
+      "path": "select/pl_05_Lauren_Marie_SPECIAL_OTHERS.txt"
+    }
+  ]
+}
